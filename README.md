@@ -9,7 +9,7 @@ REST-controllers for managing the following resources:
 
 1) Used GET, POST, PUT, DELETE methods to manage the Collections.
 2) Added security rules.
-3) Customize exception handling, use `ResponseStatusException`
+3) Customized exception handling, by `ResponseStatusException`
 4) implemented JWT authentication .
 
 
