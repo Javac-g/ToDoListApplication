@@ -2,7 +2,7 @@ package com.company.todolist.dto;
 
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
-import com.softserve.itacademy.todolist.model.Task;
+import com.company.todolist.model.Task;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
